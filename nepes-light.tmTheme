@@ -9,8 +9,6 @@
         <dict>
             <key>settings</key>
             <dict>
-                <key>background</key>
-                <string>#F8F8F8</string>
                 <key>foreground</key>
                 <string>#1C1C1E</string>
                 <key>caret</key>
@@ -148,11 +146,11 @@
         </dict>
         <dict>
             <key>scope</key>
-            <string>markup.heading, entity.name.section</string>
+            <string>markup.heading, entity.name.section, punctuation.definition.heading</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#23438E</string>
+                <string>#1C1C1E</string>
                 <key>fontStyle</key>
                 <string>bold</string>
             </dict>
